@@ -1,0 +1,25 @@
+# pack-refs with: peeled fully-peeled sorted 
+3455d56fed0f4e72397fa33307c3b97a04e1edb5 refs/heads/chore/firebase-env-guard
+238a3f8639805e1be50b8b66d8f2c525efc61d5a refs/heads/fix-analyze-image-api
+008fa46f01f9ce0c9023aee1c63998f678c3c5e7 refs/heads/fix/goalScore-typing
+17e19814b2fc1453ecc4ec2dd99048c06076371b refs/heads/fix/openai-analysis
+f64f3c907045a74b79420f121a3eb45601bbe68b refs/heads/fix/openai-api-key
+e3f8dbed45af5fa1d76e9bfddaf99789a40733da refs/heads/main
+0e6ddbf3f96b5b88ee4e37b1a47d2646242ac897 refs/original/refs/heads/chore/firebase-env-guard
+8ded98eabac0079cd94e42e2b977bf163327557b refs/original/refs/heads/fix-analyze-image-api
+1034fbe169f652a8a8650dd15aa3de7cb0fadaa7 refs/original/refs/heads/fix/goalScore-typing
+9dbefac3021b79d6d4ae5de0d8677334de06ddb2 refs/original/refs/heads/fix/openai-analysis
+8599223796db2e778819143114287342aff22cf4 refs/original/refs/heads/fix/openai-api-key
+b862c94dfab11c81c3cb4cf6f25e40c04e52206c refs/original/refs/heads/main
+7af3fbf50f819c8cc691e82323d3874bf809242d refs/original/refs/remotes/origin/chore/firebase-env-guard
+8ded98eabac0079cd94e42e2b977bf163327557b refs/original/refs/remotes/origin/fix-analyze-image-api
+1034fbe169f652a8a8650dd15aa3de7cb0fadaa7 refs/original/refs/remotes/origin/fix/goalScore-typing
+a0d5aa64d72d67de8c8307579b0d83a2d300e359 refs/original/refs/remotes/origin/fix/openai-analysis
+62bcb4eb4dcfec83803795e47100798dae75f7df refs/original/refs/remotes/origin/fix/openai-api-key
+b862c94dfab11c81c3cb4cf6f25e40c04e52206c refs/original/refs/remotes/origin/main
+814fbf04fdbdbfdc4fcc3524fb08d80c0e721fce refs/remotes/origin/chore/firebase-env-guard
+238a3f8639805e1be50b8b66d8f2c525efc61d5a refs/remotes/origin/fix-analyze-image-api
+008fa46f01f9ce0c9023aee1c63998f678c3c5e7 refs/remotes/origin/fix/goalScore-typing
+6df3ea0072310e208a657ad3902a8f81e6b4b1e2 refs/remotes/origin/fix/openai-analysis
+62bcb4eb4dcfec83803795e47100798dae75f7df refs/remotes/origin/fix/openai-api-key
+e3f8dbed45af5fa1d76e9bfddaf99789a40733da refs/remotes/origin/main
